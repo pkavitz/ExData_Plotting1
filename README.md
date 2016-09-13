@@ -1,3 +1,16 @@
+## Code explanation
+The files in this repository complete the assignment requirements outlined
+below.  There are four image files (.png) corresponding to the required
+output images of the assignment.  The scripts constructing these files are
+as follows:
+
+* *download.R* - fetches and uncompresses the source data
+* *tidypower.R* - shapes the data to tidy data with appropriate classes
+* *plot1.R* - creates the histogram depicted in *plot1.png*
+* *plot2.R* - creates the line chart depicted in *plot2.png*
+* *plot3.R* - creates the multi-line chart depicted in *plot3.png*
+* *plot4.R* - creates the four-chart presentation depicted in *plot4.png*
+
 ## Introduction
 
 This assignment uses data from
